@@ -1,0 +1,12 @@
+Dataset,Lignes,Composantes,Nb_classes,Classes,ACP_appliquee
+Bruteforce,5097,7,1,Bruteforce,Oui
+DDoS,14292,4,1,DDoS,Oui
+DoS,14121,5,1,DoS,Oui
+Evil,10,3,1,Evil,Oui
+Fakelanding,69,6,1,FakeLanding,Oui
+MITM,208,5,1,MITM,Oui
+Normal,36806,9,10,"Normal, Scanning, Reco, Bruteforce, MITM, Evil, Reply, FakeLanding, DoS, DDoS",Oui
+Reconnassiance,1152,7,1,Reco,Oui
+Reply,202,6,1,Reply,Oui
+Scanning,1152,7,1,Scanning,Oui
+UAVIDS-2025,113952,8,5,"Sybil Attack, Blackhole Attack, Wormhole Attack, Flooding Attack, Normal Traffic",Oui
