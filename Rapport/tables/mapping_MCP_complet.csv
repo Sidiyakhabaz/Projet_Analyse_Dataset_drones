@@ -1,0 +1,51 @@
+Feature,Dimension,Dataset
+TxPackets,M,UAVIDS-2025
+RxPackets,M,UAVIDS-2025
+LostPackets,M,UAVIDS-2025
+TxBytes,M,UAVIDS-2025
+RxBytes,M,UAVIDS-2025
+TxPacketRate/s,M,UAVIDS-2025
+RxPacketRate/s,M,UAVIDS-2025
+TxByteRate/s,M,UAVIDS-2025
+RxByteRate/s,M,UAVIDS-2025
+PacketDropRate,M,UAVIDS-2025
+Protocol,C,UAVIDS-2025
+SrcPort,C,UAVIDS-2025
+DstPort,C,UAVIDS-2025
+FlowDuration/s,P,UAVIDS-2025
+MeanDelay/s,P,UAVIDS-2025
+MeanJitter/s,P,UAVIDS-2025
+Throughput/Kbps,P,UAVIDS-2025
+MeanPacketSize,P,UAVIDS-2025
+AverageHopCount,P,UAVIDS-2025
+Total Fwd Packets,M,Composite IoT/UAV
+Total Backward Packets,M,Composite IoT/UAV
+Total Length of Fwd Packets,M,Composite IoT/UAV
+Total Length of Bwd Packets,M,Composite IoT/UAV
+Fwd Packet Length Max,M,Composite IoT/UAV
+Fwd Packet Length Min,M,Composite IoT/UAV
+Fwd Packet Length Mean,M,Composite IoT/UAV
+Bwd Packet Length Max,M,Composite IoT/UAV
+Bwd Packet Length Min,M,Composite IoT/UAV
+Bwd Packet Length Mean,M,Composite IoT/UAV
+Flow Packets/s,M,Composite IoT/UAV
+Fwd Packets/s,M,Composite IoT/UAV
+Bwd Packets/s,M,Composite IoT/UAV
+Protocol,C,Composite IoT/UAV
+Source Port,C,Composite IoT/UAV
+Destination Port,C,Composite IoT/UAV
+Fwd Header Length,C,Composite IoT/UAV
+Bwd Header Length,C,Composite IoT/UAV
+Flow Duration,P,Composite IoT/UAV
+Flow IAT Mean,P,Composite IoT/UAV
+Flow IAT Std,P,Composite IoT/UAV
+Flow IAT Max,P,Composite IoT/UAV
+Flow IAT Min,P,Composite IoT/UAV
+Fwd IAT Total,P,Composite IoT/UAV
+Fwd IAT Mean,P,Composite IoT/UAV
+Bwd IAT Total,P,Composite IoT/UAV
+Bwd IAT Mean,P,Composite IoT/UAV
+Flow Bytes/s,P,Composite IoT/UAV
+Average Packet Size,P,Composite IoT/UAV
+Avg Fwd Segment Size,P,Composite IoT/UAV
+Avg Bwd Segment Size,P,Composite IoT/UAV
